@@ -6,7 +6,8 @@ Mish mash of questions, poetry and thoughts
 ==÷===
 
 1. What makes blockchain different from distributed databases?
-2. How is blockchain revolutionary?
+2. How is blockchain revolutionary? To understand this, talk to the original architects (satoshi etc)
+3. 
 
 =====
 
@@ -19,6 +20,12 @@ Esse quam videri. ("To be, rather than to seem")
 
 ====
 
+Haikus on blockchains (or Blockchain on Haikus)
 
+A chain of blocks
+Immutable and infinite 
+Life is short
+But the chain goes on 
+Until a fork
 
 
