@@ -12,6 +12,13 @@ Mish mash of questions, poetry, quotes and thoughts
 | 3   | Technical Definition of Blockchain                                                                | Linked batches of transactions known as blocks hence the term blockchain; trusted ledger shared across multiple parties in a decentralised way; Distributed ledger: type of distributed database that assumes the possible presence of malicious users (nodes) Blockchain: type of distributed ledger that is composed of a chain of cryptographically linked ‘blocks’ containing batched transactions; generally broadcasts all data to all participants in the network        |
 | 4   | Business Definition of Blockchain                                                                |         |
 | 5   | What are Smart Contracts?                                                                          |         |
+| 6   | List of Questions shared in the community                                                          | https://ethereum.stackexchange.com/questions/44753/why-does-solidity-sol-file-starts-with-pragma
+https://ethereum.stackexchange.com/questions/44841/how-smart-contracts-written-in-solidity-be-expressed-in-legal-prose-so-it-become
+https://ethereum.stackexchange.com/questions/40635/can-the-term-nakamoto-consensus-nc-be-used-interchangeably-with-proof-of-work
+https://ethereum.stackexchange.com/questions/45332/solidity-expressed-in-different-languages-such-as-chinese
+https://crypto.stackexchange.com/questions/57674/how-do-i-explain-zero-knowledge-proof-to-my-7-year-old-cousin
+https://crypto.stackexchange.com/questions/57818/is-there-any-difference-between-cryptography-and-cryptology
+https://crypto.stackexchange.com/questions/56444/why-is-sha3-prefixed-with-sha-despite-the-fact-that-it-is-structurally-different |
 
 =====
 
