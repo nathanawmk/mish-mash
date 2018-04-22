@@ -12,10 +12,13 @@ Mish mash of questions, poetry and thoughts
 =====
 
 Only one life, twill soon be past,
+
 Only what’s done for Christ will last.
 
-Fortune favours the bold. 
+Fortune favours the bold.
+
 The most careful thing is to dare. 
+
 Esse quam videri. ("To be, rather than to seem")
 
 ====
@@ -23,9 +26,13 @@ Esse quam videri. ("To be, rather than to seem")
 Haikus on blockchains (or Blockchain on Haikus)
 
 A chain of blocks
+
 Immutable and limitless
+
 Life is short
+
 But the chain lives on 
+
 Until a fork
 
 Nathan Aw
