@@ -7,7 +7,19 @@ Mish mash of questions, poetry and thoughts
 
 | S/N | Questions                                                                                          | Answers  |
 | ----|:---------------------------------------------------------------------------------------------------| --------:|
-| 1   | What makes blockchain different from distributed databases?                                        | Distributed DB: Centralised control. / Distributed DB: Trust all the machines. /Distributed DB: Read/Write/Update // Blockchain: Decentralised Control trust no machines. / Blockchain: Mistrust to no trust /Blockchain: Read/Write/Append Only |
+| 1   | What makes blockchain different from distributed databases?                                        | 
+
+Distributed DB: Centralised control.
+
+Distributed DB: Trust all the machines. 
+
+Distributed DB: Read/Write/Update 
+
+Blockchain: Decentralised Control trust no machines.
+
+Blockchain: Mistrust to no trust 
+
+Blockchain: Read/Write/Append Only |
 | 2   | How is blockchain revolutionary? To understand this, talk to the original architects (satoshi etc) |          |
 
 =====
