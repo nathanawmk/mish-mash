@@ -8,9 +8,8 @@ Mish mash of questions, poetry, quotes and thoughts
 | S/N | Questions                                                                                          | Answers  |
 | ----|:---------------------------------------------------------------------------------------------------| --------:|
 | 1   | What makes blockchain different from distributed databases?                                        | Distributed DB --> Centralised control. Distributed DB --> Trust all the machines. Distributed DB --> Read/Write/Update. Blockchain --> Decentralised Control trust no machines. Blockchain --> Mistrust to no trust. Blockchain: Read/Append Only --> Distributed Immutable Single source of truth Blockchain Data Format --> Ordered List of records bundled into blocks which are then linked and secured using cryptography |
-| 2   | How is blockchain revolutionary? To understand this, talk to the original architects (satoshi etc) |         |                  
-| 3   | Technical Definition of Blockchain                                                                | Linked batches of transactions known as blocks hence the term blockchain; trusted ledger shared across multiple parties in a decentralised way; Distributed ledger: type of distributed database that assumes the possible presence of malicious users (nodes) Blockchain: type of distributed ledger that is composed of a chain of cryptographically linked ‘blocks’ containing batched transactions; generally
-broadcasts all data to all participants in the network        |
+| 2   | How is blockchain revolutionary? To understand this, talk to the original architects (satoshi etc) | Blockchain will do for transactions what the internet did for information.         |                  
+| 3   | Technical Definition of Blockchain                                                                | Linked batches of transactions known as blocks hence the term blockchain; trusted ledger shared across multiple parties in a decentralised way; Distributed ledger: type of distributed database that assumes the possible presence of malicious users (nodes) Blockchain: type of distributed ledger that is composed of a chain of cryptographically linked ‘blocks’ containing batched transactions; generally broadcasts all data to all participants in the network        |
 | 4   | Business Definition of Blockchain                                                                |         |
 | 5   | What are Smart Contracts?                                                                          |         |
 
@@ -55,6 +54,6 @@ Until a fork
 ======
 
 
-Nathan Aw
+Nathan Aw stands at the intersection of blockchain, crypto-law and economics. Equipped with deep understanding of blockchain and hands-on experience on distributed ledger technologies (DLTs), he helps shape the blockchain landscape with an eye toward a crypto-law future where any untrusting individuals could enter a contract with each other to transact value. He holds no crypto position.  
 
 
