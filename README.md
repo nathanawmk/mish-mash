@@ -23,9 +23,11 @@ Esse quam videri. ("To be, rather than to seem")
 Haikus on blockchains (or Blockchain on Haikus)
 
 A chain of blocks
-Immutable and infinite 
+Immutable and limitless
 Life is short
-But the chain goes on 
+But the chain lives on 
 Until a fork
+
+Nathan Aw
 
 
