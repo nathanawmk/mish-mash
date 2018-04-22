@@ -9,8 +9,16 @@ Mish mash of questions, poetry, quotes and thoughts
 | ----|:---------------------------------------------------------------------------------------------------| --------:|
 | 1   | What makes blockchain different from distributed databases?                                        | Distributed DB: Centralised control. Distributed DB: Trust all the machines. Distributed DB: Read/Write/Update. Blockchain: Decentralised Control trust no machines. Blockchain: Mistrust to no trust. Blockchain: Read/Append Only --> Single source of truth Blockchain: Ordered List of records bundled into blocks which are then linked and secured using cryptography |
 | 2   | How is blockchain revolutionary? To understand this, talk to the original architects (satoshi etc) |         |                  
-| 3   | Technical Definition of Blockchains                                                                | Linked batches of transactions known as blocks hence the term blockchain; trusted ledger shared across multiple parties in a decentralised way        |
-| 4   | Business Definition of Blockchains                                                                 |         |
+| 3   | Technical Definition of Blockchain                                                                | Linked batches of transactions known as blocks hence the term blockchain; trusted ledger shared across multiple parties in a decentralised way; Distributed ledger: type of distributed
+database that assumes the possible
+presence of malicious users (nodes) 
+Blockchain: type of distributed
+ledger that is composed of a chain
+of cryptographically linked ‘blocks’
+containing batched transactions; generally
+broadcasts all data to all participants in
+the network        |
+| 4   | Business Definition of Blockchain                                                                |         |
 | 5   | What are Smart Contracts?                                                                          |         |
 
 =====
