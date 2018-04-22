@@ -7,9 +7,7 @@ Mish mash of questions, poetry and thoughts
 
 | S/N | Questions                                                                                          | Answers  |
 | ----|:---------------------------------------------------------------------------------------------------| --------:|
-| 1   | What makes blockchain different from distributed databases?                                        | 
-
-Distributed DB: Centralised control.
+| 1   | What makes blockchain different from distributed databases?                                        | Distributed DB: Centralised control.
 
 Distributed DB: Trust all the machines. 
 
