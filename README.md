@@ -36,10 +36,6 @@ Finally, Blockchain is birthed out of an idea. Refer to above.
 
 =====
 
-
-
-=====
-
 Only one life, twill soon be past,
 
 Only what’s done for Christ will last.
@@ -61,6 +57,7 @@ Esse quam videri. ("To be, rather than to seem")
 Haikus on blockchains (or Blockchain on Haikus)
 
 
+'Timeless Chain'
 
 A chain of blocks
 
@@ -71,6 +68,16 @@ Life is short
 But the chain lives on 
 
 Until a fork
+
+--------
+
+'Blocks, Chains and Time'
+
+ Infinite number of transactions bundled together in blocks
+ 
+ Many blocks chained together to form the blockchain
+
+ Blockchain should become the chronological record of all human events and humans who have lived
 
 ======
 
