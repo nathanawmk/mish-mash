@@ -29,7 +29,9 @@ Finally, Blockchain is birthed out of an idea. Refer to above.
 | 4   | Business Definition of Blockchain                                                                |         |
 | 5   | What are Smart Contracts?                                                                          |         |
 | 6   | List of Questions shared in the community                                                          |https://ethereum.stackexchange.com/questions/44753/why-does-solidity-sol-file-starts-with-pragma https://ethereum.stackexchange.com/questions/44841/how-smart-contracts-written-in-solidity-be-expressed-in-legal-prose-so-it-become https://ethereum.stackexchange.com/questions/40635/can-the-term-nakamoto-consensus-nc-be-used-interchangeably-with-proof-of-work https://ethereum.stackexchange.com/questions/45332/solidity-expressed-in-different-languages-such-as-chinese https://crypto.stackexchange.com/questions/57674/how-do-i-explain-zero-knowledge-proof-to-my-7-year-old-cousin https://crypto.stackexchange.com/questions/57818/is-there-any-difference-between-cryptography-and-cryptology https://crypto.stackexchange.com/questions/56444/why-is-sha3-prefixed-with-sha-despite-the-fact-that-it-is-structurally-different |
-|7    | What is the V-R-S in the transaction object?| - Values corresponding to the signature of the transaction - Used to determine the sender of the transaction - Verify signature on the transaction  - Output of the ECDSA 
+|7    | What is the V-R-S in the transaction object?| - Values corresponding to the signature of the transaction - Used to determine the sender of the transaction - Verify signature on the transaction  - Output of the ECDSA |
+|8    | what is the minimum number of nodes for raft consensus to work correctly? |    |
+|9    | What is the minimum number of nodes for instabul consensus to work correcrtly? |    |
 =====
 
 
