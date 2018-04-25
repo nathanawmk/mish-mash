@@ -17,7 +17,12 @@ Blockchain as an idea is timeless. I love timeless ideas, not hype. Blockchain i
 
 Blockchain is immutable. (Okay, technical folks, you will disagree and say there is 51% attack and forks). That said, what is on blockchain, lives on forever (almost at least). Think about this -- I engrave my name "Nathan Aw" in the transaction input data payload and this name is engraved in the block which lives forever in a digital world. Unless humankind cease to exist, we can reasonably assume internet will still be around. As long as internet is around, the blockchain lives on. 
 
-Finally, Blockchain is birthed out of an idea. Refer to above.  
+Finally, Blockchain is birthed out of an idea. Refer to above. 
+
+=====
+Is blockchain a solution looking for a problem?
+
+Laser was also labelled as a solution looking for a problem when it was first developed in 1960. Today my mum had her cataracts removed with lasers. At the checkout lines in the supermarket I use laser barcode scanners to check out. A solution looking for a problem is also a general purpose technology (gpt). Its far ranging applications will soon be realised.
 
 =====
 
