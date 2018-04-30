@@ -5,6 +5,16 @@ Mish mash of questions, poetry, quotes and thoughts
 
 “When you’re a student, you’re judged by how well you answer questions. Somebody else asks the questions, and if you give good answers, you’ll get a good grade. But in life, you’re judged by how good your questions are,” - Robert Langer 
 
+“I wasn’t that good at finding solutions, but I was really good at asking questions.” - Leslie Lamport
+
+“And so, my fellow Americans: ask not what your country can do for you—ask what you can do for your country.” JFK 
+
+“It did not really matter what we expected from life, but rather what life expected from us. We needed to stop asking about the meaning of life, and instead to think of ourselves as those who were being questioned by life—daily and hourly. Our answer must consist, not in talk and meditation, but in right action and in right conduct. Life ultimately means taking the responsibility to find the right answer to its problems and to fulfill the tasks which it constantly sets for each individual.”
+
+― Viktor E. Frankl, Man's Search for Meaning
+
+Ask the right questions and the rest will fall in its rightful place. - Nathan Aw
+
 =====
  
 Why in love with blockchain? Not with others, say, AI, APIs, Big Data, RPA?
@@ -19,9 +29,10 @@ Blockchain is immutable. (Okay, technical folks, you will disagree and say there
 
 Finally, Blockchain is birthed out of an idea to bring the internet back to its true decentralised and distributed roots, unlike other technologies which was invented to maximise shareholders returns, blockchain purpose was to do the precise opposite -- whuch is to wrest control from these centralised organisations.
 
-Did I choose blockchain? No. Blockchain chose me.
+Did I choose blockchain? No. Blockchain chose me then I chose Blockchain. 
 
 =====
+
 Is blockchain a solution looking for a problem?
 
 Laser was also labelled as a solution looking for a problem when it was first invented in 1960. Today my mum had her cataracts removed with lasers. At the checkout lanes at my nearby supermarket I use laser barcode scanners to check out. A solution looking for a problem is also a general purpose technology (gpt). Its far ranging applications will soon be realised.
