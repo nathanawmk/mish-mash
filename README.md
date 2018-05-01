@@ -27,7 +27,7 @@ Blockchain as an idea is timeless. I love timeless ideas, not hype. Blockchain i
 
 Blockchain is immutable. (Okay, technical folks, you will disagree and say there is 51% attack and forks). That said, what is on blockchain, lives on forever (almost at least). Think about this -- I engrave my name "Nathan Aw" in the transaction input data payload and this name is engraved in the block which lives forever in a digital world. Unless humankind cease to exist, we can reasonably assume internet will still be around. As long as internet is around, the blockchain lives on. 
 
-Finally, Blockchain is birthed out of an idea to bring the internet back to its true decentralised and distributed roots, unlike other technologies which was invented to maximise shareholders returns, blockchain purpose was to do the precise opposite -- whuch is to wrest control from these centralised organisations.
+Finally, Blockchain is birthed out of an idea to bring the internet back to its true decentralised and distributed roots, unlike other technologies which was invented to maximise shareholders returns, blockchain purpose was to do the precise opposite -- which is to wrest control from these centralised organisations.
 
 Did I choose blockchain? No. Blockchain chose me first. Then I chose Blockchain. The order matters.  
 
