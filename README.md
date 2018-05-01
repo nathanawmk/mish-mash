@@ -29,7 +29,7 @@ Blockchain is immutable. (Okay, technical folks, you will disagree and say there
 
 Finally, Blockchain is birthed out of an idea to bring the internet back to its true decentralised and distributed roots, unlike other technologies which was invented to maximise shareholders returns, blockchain purpose was to do the precise opposite -- whuch is to wrest control from these centralised organisations.
 
-Did I choose blockchain? No. Blockchain chose me then I chose Blockchain. 
+Did I choose blockchain? No. Blockchain chose me first. Then I chose Blockchain. The order matters.  
 
 =====
 
@@ -53,6 +53,9 @@ Laser was also labelled as a solution looking for a problem when it was first in
 |10   | How does the ECDSA and Secp256k work hand to provide digital signatures? |  |
 |11   | Key Words in the Ethereum Paper: | "Decentralised value-transfer system"
 "Cryptographically Secure, Transaction Based State Machine" "A trustful object messaging compute framework" "Facilitate Transaction between consenting individuals who have no means to trust each others" "Disinterested algorithmic interpreter" "Blockchain with a Turing Complete Language" "Cryptographic Proof of Computational Expenditure ("Proof of Work") as a value signal over internet" "Proof of Work Secured Value Token" "High efficiency gains can be made if decentralisation premise can be discarded""Blockchain Paradigm: Transaction-based State Machine" "Genesis State and incrementally execute transactions to morph it to some final state" "A valid state transition comes through a transaction" | 
+|12  | Key Words/Phrases in Satoshi Paper: | |
+|13  | Raft: | |
+|14  | Time, Clocks and the Ordering of Events | | 
 
 =====
 
