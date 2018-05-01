@@ -51,6 +51,8 @@ Laser was also labelled as a solution looking for a problem when it was first in
 |8    | what is the minimum number of nodes for raft consensus to work correctly? |    |
 |9    | What is the minimum number of nodes for instabul consensus to work correcrtly? |    |
 |10   | How does the ECDSA and Secp256k work hand to provide digital signatures? |  |
+|11   | Key Words in the Ethereum Paper: | "Decentralised value-transfer system"
+"Cryptographically Secure, Transaction Based State Machine" "A trustful object messaging compute framework" "Facilitate Transaction between consenting individuals who have no means to trust each others" "Disinterested algorithmic interpreter" "Blockchain with a Turing Complete Language" "Cryptographic Proof of Computational Expenditure ("Proof of Work") as a value signal over internet" "Proof of Work Secured Value Token" "High efficiency gains can be made if decentralisation premise can be discarded""Blockchain Paradigm: Transaction-based State Machine" "Genesis State and incrementally execute transactions to morph it to some final state" "A valid state transition comes through a transaction" | 
 
 =====
 
