@@ -35,7 +35,28 @@ Blockchain is immutable. (Okay, technical folks, you will disagree and say there
 
 Finally, Blockchain is birthed out of an idea to bring the internet back to its true decentralised and distributed roots, unlike other technologies which was invented to maximise shareholders returns, blockchain purpose was to do the precise opposite -- which is to wrest control from these centralised organisations.
 
+The stars aligned. The dots connected. Everything clicked. 
+
 Did I choose blockchain? No. Blockchain chose me first. Then I chose Blockchain. The order matters.  
+
+=====
+
+Is Blockchain truly transformative or just another fad/hype/pixie dust/magic wand? (Quoting Martin Walker, a blockchain naysayer)
+
+I have learned that the truth always lie somewhere in between. First, Blockchain is a belief system -- those who believe and those who do not. I have explored both sides and have come to the conclusion that the claim that blockchain as the panacea to the world's ill is plain and simple falsehood. I will not go into why folks will peddle this falsehood -- am guessing they have vested personal interests. Having said that, I do believe that blockchain has the potential to transform "parts" of human commerce. In that regard, blockchain is truly transformative when applied to the specified problem. 
+
+Most importantly, and very ironically, in this ICO pump and dump frenzy now we are in, we are unwittingly building the next generation decentralisation platform on which innovation can truly flourish. I cannot say it as eloquently as Technology Review. Reproducing in full below. 
+
+"The dot-com bubble of the 1990s is popularly viewed as a period of crazy excess that ended with hundreds of billions of dollars of wealth being destroyed. What’s less often discussed is how all the cheap capital of the boom years helped fund the infrastructure upon which the most important internet innovations would be built after the bubble burst. It paid for the rollout of fiber-optic cable, R&D in 3G networks, and the buildout of giant server farms. All of this would make possible the technologies that are now the bedrock of the world’s most powerful companies: algorithmic search, social media, mobile computing, cloud services, big-data analytics, AI, and more."
+https://www.technologyreview.com/s/610781/in-blockchain-we-trust/
+
+What is my conclusion then? The jury is out on this. I don't believe the future will look like what many might have in mind -- think flying cars, etc. Instead we have Tesla now. But you know what I know? The future belongs to those who create it. With that means that with all the research and resources poured into blockchain right now, we can expect something -- what that is, we do not know for sure. What is certain is that it will certainly yield something -- my guess is the next-generation decentralised internet infrastructure. 
+
+Check out the some articles on naysayers shared: 
+
+http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/treasury-committee/digital-currencies/written/82032.html
+
+https://ftalphaville.ft.com/2018/05/02/1525253799000/Blockchain-insiders-tell-us-why-we-don-t-need-blockchain/
 
 =====
 
@@ -61,7 +82,8 @@ Laser was also labelled as a solution looking for a problem when it was first in
 |12  | Key Words/Phrases in Satoshi Paper: | |
 |13  | Raft: | |
 |14  | Time, Clocks and the Ordering of Events |  | 
-|15  | Blockchain Naysayers                    |  |
+|15  | Blockchain Naysayers                    | Martin Walker  https://ftalphaville.ft.com/2018/05/02/1525253799000/Blockchain-insiders-tell-us-why-we-don-t-need-blockchain/ |
+|16  | Blockchain Ayesayers                    |  Gary Gensler, ex CFTC chairman, now a lecturer at MIT. https://www.coindesk.com/ex-cftc-chair-gary-gensler-on-tokens-securities-and-the-sec/ https://www.nytimes.com/2018/04/22/technology/gensler-mit-blockchain.html http://mitsloan.mit.edu/faculty-and-research/faculty-directory/detail/?id=167973 |
 
 =====
 
