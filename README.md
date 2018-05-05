@@ -7,13 +7,19 @@ Mish mash of questions, poetry, quotes and thoughts
 
 “I wasn’t that good at finding solutions, but I was really good at asking questions.” - Leslie Lamport
 
-“And so, my fellow Americans: ask not what your country can do for you—ask what you can do for your country.” JFK 
+“And so, my fellow Americans: ask not what your country can do for you—ask what you can do for your country.” - JFK 
 
 “It did not really matter what we expected from life, but rather what life expected from us. We needed to stop asking about the meaning of life, and instead to think of ourselves as those who were being questioned by life—daily and hourly. Our answer must consist, not in talk and meditation, but in right action and in right conduct. Life ultimately means taking the responsibility to find the right answer to its problems and to fulfill the tasks which it constantly sets for each individual.”
-
 ― Viktor E. Frankl, Man's Search for Meaning
 
-Ask the right questions and the rest will fall in its rightful place. - Nathan Aw
+Ask the right questions and the rest will fall in its rightful place. 
+- Nathan Aw
+
+“The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time and still retain the ability to function.” - F Scott Fitzgerald
+
+[Working on blockchain day in and day out not quite knowing if this is just another hype or something truly, truly transformative.]
+
+“When the facts change, I change my mind.” - John Maynard Keynes
 
 =====
  
@@ -54,7 +60,8 @@ Laser was also labelled as a solution looking for a problem when it was first in
 |11   | Key Words in the Ethereum Paper: | "Decentralised value-transfer system" "Cryptographically Secure, Transaction Based State Machine" "A trustful object messaging compute framework" "Facilitate Transaction between consenting individuals who have no means to trust each others" "Disinterested algorithmic interpreter" "Blockchain with a Turing Complete Language" "Cryptographic Proof of Computational Expenditure ("Proof of Work") as a value signal over internet" "Proof of Work Secured Value Token" "High efficiency gains can be made if decentralisation premise can be discarded""Blockchain Paradigm: Transaction-based State Machine" "Genesis State and incrementally execute transactions to morph it to some final state" "A valid state transition comes through a transaction" | 
 |12  | Key Words/Phrases in Satoshi Paper: | |
 |13  | Raft: | |
-|14  | Time, Clocks and the Ordering of Events | | 
+|14  | Time, Clocks and the Ordering of Events |  | 
+|15  | Blockchain Naysayers                    |  |
 
 =====
 
