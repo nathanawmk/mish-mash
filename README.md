@@ -13,13 +13,15 @@ Mish mash of questions, poetry, quotes and thoughts
 ― Viktor E. Frankl, Man's Search for Meaning
 
 Ask the right questions and the rest will fall in its rightful place. 
-- Nathan Aw
+-- Nathan Aw
 
 “The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time and still retain the ability to function.” - F Scott Fitzgerald
 
 [Working on blockchain day in and day out not quite knowing if this is just another hype or something truly, truly transformative.]
 
-“When the facts change, I change my mind.” - John Maynard Keynes
+“When the facts change, I change my mind.” -- John Maynard Keynes
+
+"Let us realize the arc of the moral universe is long, but it bends toward justice." -- Martin Luther King Jr
 
 =====
  
