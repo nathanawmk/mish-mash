@@ -23,6 +23,10 @@ Ask the right questions and the rest will fall in its rightful place.
 
 "Let us realize the arc of the moral universe is long, but it bends toward justice." -- Martin Luther King Jr
 
+"Broken Cisterns, broken dreams and broken relationships. Death suddenly looks like a very palatable option. " -- Nathan Aw
+
+"In the search for one true purpose. " -- Nathan Aw 
+
 =====
  
 Why in love with blockchain? Not with others, say, AI, APIs, Big Data, RPA?
