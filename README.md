@@ -210,6 +210,6 @@ https://ethereum.stackexchange.com/questions/52148/in-quorum-does-contract-resid
 
 ======
 
-Nathan Aw, a blockchain engineer at a local bank, stands at the very intersection of blockchain, crypto-law and economics. Equipped with deep understanding of blockchain and hands-on experience on distributed ledger technologies (DLTs), he helps shape the blockchain landscape with an eye toward a crypto-law future where any untrusting individuals could enter a contract with each other to transact value. He holds no crypto position.  
+Nathan Aw, a blockchain engineer at a leading bank in South East Asia, stands at the very intersection of blockchain, crypto-law and economics. Equipped with deep understanding of blockchain and hands-on experience on distributed ledger technologies (DLTs), he helps shape the blockchain landscape with an eye toward a crypto-law future where any untrusting individuals could enter a contract with each other to transact value. He holds no crypto position.  
 
 
