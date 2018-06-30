@@ -138,7 +138,78 @@ Until a fork
 
 ======
 
+https://ethereum.stackexchange.com/questions/44753/why-does-solidity-sol-file-starts-with-pragma
 
-Nathan Aw stands at the intersection of blockchain, crypto-law and economics. Equipped with deep understanding of blockchain and hands-on experience on distributed ledger technologies (DLTs), he helps shape the blockchain landscape with an eye toward a crypto-law future where any untrusting individuals could enter a contract with each other to transact value. He holds no crypto position.  
+https://ethereum.stackexchange.com/questions/46954/calling-multiple-smart-contracts-how-deep-can-it-go
+
+https://ethereum.stackexchange.com/questions/41568/what-is-the-difference-between-casper-and-algorand
+
+https://ethereum.stackexchange.com/questions/44841/how-smart-contracts-written-in-solidity-be-expressed-in-legal-prose-so-it-become
+
+https://ethereum.stackexchange.com/questions/52330/%C3%90%CE%9Evp2p-dapps-why-is-it-in-%C3%90-not-d-any-special-significance-of-using-%C3%90
+
+https://ethereum.stackexchange.com/questions/40635/can-the-term-nakamoto-consensus-nc-be-used-interchangeably-with-proof-of-work
+
+https://ethereum.stackexchange.com/questions/40506/tendermint-vs-algorand-similarities-and-differences
+
+https://ethereum.stackexchange.com/questions/52165/cross-chain-atomic-swaps-for-integration-between-enterprise-blockchain-solutions
+
+https://ethereum.stackexchange.com/questions/52175/cross-chain-atomic-swaps-for-erc721
+
+https://ethereum.stackexchange.com/questions/52169/in-quorum-between-raft-and-istanbul-bft-ibft-consensus-which-has-a-better-f
+
+https://ethereum.stackexchange.com/questions/51888/quorum-enterprise-ethereum-privatefor-parameter-passed-when-instantiating-cont
+
+https://ethereum.stackexchange.com/questions/50533/does-ethers-js-works-with-quorum
+
+https://ethereum.stackexchange.com/questions/51187/why-web3-and-not-just-call-json-rpc-api
+
+https://ethereum.stackexchange.com/questions/49179/get-contracts-deployed-count-on-quorum-blockchain
+
+https://ethereum.stackexchange.com/questions/41337/what-specifically-is-the-autonomous-component-in-the-paper-plasma-scalable-au
+
+https://ethereum.stackexchange.com/questions/44910/smart-contract-execution-rights-can-everyone-who-knows-the-public-address-of-a
+
+https://ethereum.stackexchange.com/questions/44909/using-proof-of-authority-similar-to-kovan-and-rinkeby-testnet-in-my-private-et
+
+https://ethereum.stackexchange.com/questions/47621/enterprise-ethereum-alliance-enterprise-ethereum-architecture-stack-eeas
+
+https://ethereum.stackexchange.com/questions/47607/is-ethereum-contract-application-binary-interface-abi-somewhat-similar-to-wsdl
+
+https://ethereum.stackexchange.com/questions/46065/difference-between-web3-js-web3-min-js-web3-light-js-web3-light-min-js
+
+https://ethereum.stackexchange.com/questions/48889/ecdsa-transaction-signature-values-v-r-s-interpreting-and-presenting-it-to
+
+https://ethereum.stackexchange.com/questions/49041/solidity-import-tensor-flow-libraries
+
+https://ethereum.stackexchange.com/questions/49183/bi-dashboard-tableau-qlikview-esque-for-ethereum-quorum
+
+https://ethereum.stackexchange.com/questions/50452/the-d-in-the-dapp-decentralised-vs-distributed
+
+https://ethereum.stackexchange.com/questions/45495/is-there-a-create-database-crud-new-entry-row-item-in-ethereum
+
+https://ethereum.stackexchange.com/questions/44686/the-specified-location-that-the-smart-contract-is-deployed
+
+https://ethereum.stackexchange.com/questions/44846/how-does-all-testnets-kovan-rinkeby-ropsten-get-onto-the-latest-release-of
+
+https://ethereum.stackexchange.com/questions/43886/can-ethereum-blockchain-and-bitcoin-blockchain-integrate-with-each-other-thus-cr
+
+https://ethereum.stackexchange.com/questions/43829/why-contract-accounts-can-only-be-activated-by-an-externally-owned-account-eoa
+
+https://ethereum.stackexchange.com/questions/52400/enterprise-ethereum-quorum-smart-contract-abstraction-business-logic-applic
+
+https://ethereum.stackexchange.com/questions/52160/quorum-data-harmonization-harmonisation-transformation-mapping-in-blockc
+
+https://ethereum.stackexchange.com/questions/52354/ethereum-proof-of-stake-is-transaction-finality-settlement-finality-finally-po
+
+https://ethereum.stackexchange.com/questions/52355/casper-ffg-in-relation-to-proof-of-stake
+
+https://ethereum.stackexchange.com/questions/51742/quorum-track-state-variable-changes-in-struct-data-lineage
+
+https://ethereum.stackexchange.com/questions/52148/in-quorum-does-contract-resides-on-all-the-nodes-or-a-majority-subset-of-the-no
+
+======
+
+Nathan Aw, a blockchain engineer at a local bank, stands at the very intersection of blockchain, crypto-law and economics. Equipped with deep understanding of blockchain and hands-on experience on distributed ledger technologies (DLTs), he helps shape the blockchain landscape with an eye toward a crypto-law future where any untrusting individuals could enter a contract with each other to transact value. He holds no crypto position.  
 
 
